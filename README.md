@@ -1,1 +1,1 @@
-weather-app is my first project and ihave made this using html,css and js.
+weather-app is my first project and i have made this using html,css and js.
